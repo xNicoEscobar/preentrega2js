@@ -18,7 +18,7 @@ function calc_total(arr) {
 
 carrito_compra = []
 //-----------Objetos-----------//
-const productList = [{ id: 1, nombre: "RTX 3070 Ti", precio: 250000, cantidad: 0, stock: 10 },
+const productList = [{ id: 1, nombre: "RTX 3070 Ti", precio: 250000, cantidad: 0, },
 { id: 2, nombre: "RTX 3080", precio: 300000, cantidad: 0, stock: 10 },
 { id: 3, nombre: "RTX 3080 Ti", precio: 350000, cantidad: 0, stock: 10 },
 { id: 4, nombre: "RTX 3090 Ti", precio: 500000, cantidad: 0, stock: 10 },
